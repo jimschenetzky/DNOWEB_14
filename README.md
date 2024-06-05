@@ -6,6 +6,14 @@
 #### -Uso de las redes sociales según género
 #### -Uso de las redes sociales según edad
 #### -Popularidad de distintas redes sociales hoy 
+#
+### Indicadores:
+#### -Uso de las redes sociales según País
+#### -Creación de contenido según País
+#### -Uso de las redes sociales según género
+#### -Uso de las redes sociales según edad
+#### -Popularidad de distintas redes sociales hoy 
+
 
 
 
