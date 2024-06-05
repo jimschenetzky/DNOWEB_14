@@ -8,7 +8,7 @@
 #### 5. Popularidad de distintas redes sociales hoy 
 #
 ### Indicadores:
-#### 1. Comparación 10 países con mayor tiempo promedio frente a la pantalla
+#### 1. [Comparación 10 países con mayor tiempo promedio frente a la pantalla] (https://www.electronicshub.org/the-average-screen-time-and-usage-by-country/#South_Americans_Spend_More_Than_Half_Their_Day_Online)
 #### 2. Influencers con más seguidores en el mundo
 #### 3.A. Comparación por red social de genero de usuarios 
 #### 3.B. Comparación promedio total
