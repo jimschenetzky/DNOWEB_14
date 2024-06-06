@@ -36,30 +36,49 @@
 #### 5. [usuarios de redes sociales en Chile (2023)](https://ce.entel.cl/articulos/las-redes-sociales-en-chile/?utm_term=&utm_campaign=AO+-+COE+-+Branding+-+GGEE&utm_source=adwords&utm_medium=ppc&hsa_acc=1140987309&hsa_cam=12506884035&hsa_grp=146100801496&hsa_ad=646611157132&hsa_src=g&hsa_tgt=dsa-2149377272291&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwmYCzBhA6EiwAxFwfgJ5itaM3GuQyxKq6hYi3E775IDartIKFTa12g6Sb8DeNnKuzT6GgzRoCtggQAvD_BwE#:~:text=En%20promedio%2C%20hay%2016%2C55%20millones%20de%20usuarios%20de%20las%20redes%20sociales%20en%20Chile%2C%20lo%20que%20equivale%20al%2093%2C5%25%20de%20la%20cantidad%20de%20personas%20en%20total%20que%20utilizan%20internet%20(que%20es%20de%2017%2C69%20millones)%2C%20y%20a%20su%20vez%20equivale%20al%2084%2C4%25%20de%20la%20poblaci%C3%B3n%20total%20del%20pa%C3%ADs%20(que%20es%20de%2019%2C62%20millones).).
 En promedio, hay 16,55 millones de usuarios de las redes sociales en Chile, lo que equivale al 93,5% de la cantidad de personas en total que utilizan internet (que es de 17,69 millones), y a su vez equivale al 84,4% de la población total del país (que es de 19,62 millones).
 #### 6. Segmentación del uso de RRSS por edad en Chile
-##### 6.1: [Segmentación del uso de Instagram por edad en Chile](https://www.iedge.eu/instagram-en-chile-2020-por-javier-garcia#:~:text=Segmentaci%C3%B3n%20del%20uso%20de%20Instagram%20por%20edad%20en%20Chile).
+##### 6.1: [Segmentación del uso de Instagram por edad en Chile](https://napoleoncat.com/stats/instagram-users-in-chile/2024/05/).
 | Rango etario | % usuarios |
 |-------------:|------------|
-| 13-17        |  4%        | 
-| 18-24        | 29%        |
-| 25-34        | 38%        |
-| 35-44        | 17%        | 
-| 45-54        |  8%        |
-| 55-64        |  3%        | 
-| 65 +         |  2%        |
+| 13-17        |  S/I       | 
+| 18-24        | 24.5%      |
+| 25-34        | 31.3%      |
+| 35-44        | 20.6%      | 
+| 45-54        | 11.9%      |
+| 55-64        |  7.2%      | 
+| 65 +         |  4.4%      |
 
-##### 6.2:[Segmentación del uso de Facebook por edad en Chile](https://www.iedge.eu/instagram-en-chile-2020-por-javier-garcia#:~:text=Segmentaci%C3%B3n%20del%20uso%20de%20Instagram%20por%20edad%20en%20Chile).
+##### 6.2:[Segmentación del uso de Facebook por edad en Chile](https://napoleoncat.com/stats/facebook-users-in-chile/2024/04/).
 | Rango etario | % usuarios |
 |-------------:|------------|
-| 13-17        |  4%        | 
-| 18-24        | 29%        |
-| 25-34        | 38%        |
-| 35-44        | 17%        | 
-| 45-54        |  8%        |
-| 55-64        |  3%        | 
-| 65 +         |  2%        |
+| 13-17        |  S/I       | 
+| 18-24        | 20.2%      |
+| 25-34        | 28.8%      |
+| 35-44        | 19.7%      | 
+| 45-54        | 13.8%      |
+| 55-64        | 10.3%      | 
+| 65 +         |  7.1%      |
 
-#### 7. Popularidad de Contenido:
+#### 7. Popularidad de creadores en Chile:
+##### 7.1. [TikTokers Chilenos](https://promoty.io/influencers-in-chile/).
+Ignacia Antonia (@ignaciaa_antonia) – 30.6M followers
+Itayvargas (@itayvargas) – 17.7M followers
+Nova (@strangehuman) – 12.4M followers
+Marcelo Alcázar (@marceloalcazar) – 11.4M followers
+Ignacio Orellana (@nachitojuegajuegos) – 11.1M followers
+Vaiti (@vaimonroe) – 10.6M followers
+L Λ I K Λ (@laika.secret) – 10.3M followers
+joaquinorellanas (@joaquinorellanas) – 8.7M followers
+TATI (@tatiifernandez._) – 8.3M followers
+MikeMilfort (@mikemilfortversionmalo) – 7.1M followers
 
-
-
-
+##### 7.2. [Influencers de Instagram basados en Chile](https://promoty.io/influencers-in-chile/).
+Paloma Mami (@palomamami) – 4.6M followers
+Pancho Saavedra (@franciscosaavedr) – 3.9M followers
+Denise Rosenthal (@deniserosenthal) – 3.7M followers
+Gary Medel (@gary_medel17) – 3.6M followers
+Pailita (@pailita.k7k) – 2.9M followers
+Gala Caldirola (@galadrielcaldirola) – 2.9M followers
+Karol Jesús Lucero V. (@karol_lucerov) – 2.7M followers
+Pamela Díaz (@pamefieradiaz) – 2.7M followers
+Joaquin Mendez (@mendezjoaquin) – 2.5M followers
+P*c* Pal Que Lee (@accionantipoeticachile) – 2.4M followers
