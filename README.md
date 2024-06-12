@@ -10,7 +10,7 @@
 #### 7. Popularidad de Contenido
 #
 ### Indicadores:
-#### 1. [Comparación 10 países con mayor tiempo promedio frente a la pantalla](https://www.electronicshub.org/the-average-screen-time-and-usage-by-country/#South_Americans_Spend_More_Than_Half_Their_Day_Online).
+#### 1. [Comparación 10 países con mayor tiempo promedio frente a la pantalla](https://www.electronicshub.org/the-average-screen-time-and-usage-by-country-in-2024/).
 #### 2. [Influencers con más seguidores en Chile](https://www.tiendanube.com/cl/blog/influencers-chilenos/).
 #### 3. [Comparación por red social de genero de usuarios en Chile 2023](https://www.way2net.com/2023/09/estadisticas-de-redes-sociales-en-chile-2023/).
 ##### 3.1: promedio de usuarios por genero
