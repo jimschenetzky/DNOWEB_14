@@ -108,7 +108,8 @@ La famosa red social "Boomer", Facebook, desde la masificación de Instagram, se
 | 65 +         |  7.1%      |
 
 #
-(toda la parte 5 parte se me ocurre graficarla mediante comics cortos o ilustraciones que den a entender los problemas e ideas de soluciones de manera visual.
+(toda la parte 5 parte se me ocurre graficarla mediante comics cortos o ilustraciones que den a entender los problemas e ideas de soluciones de manera visual)
+#
 #### 5. Efectos del uso de pantallas y redes sociales:
 #### 5.A. [Problemas de salud que puede provocar el uso de pantallas:](https://www.clinicauandes.cl/noticia/cuatro-problemas-de-salud-derivados-del-uso-de-pantallas#:~:text=Al%20exponerse%20muchas%20horas%20a,e%20intolerancia%20a%20la%20luz.).
 Debido a la prolongada exposición a pantallas que vivimos, nuestra salud se ve afectada por diveros problemas, los más comunes son:
