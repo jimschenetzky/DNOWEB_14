@@ -10,27 +10,108 @@
 #### 7. Popularidad de Contenido
 #
 ### Indicadores:
+
 #### 1.A. [Comparación 10 países con mayor tiempo promedio frente a la pantalla](https://www.electronicshub.org/the-average-screen-time-and-usage-by-country-in-2024/).
+Chile se encuentra posicionado en el 6° lugar entre los países que más tiempo dedica al día a las pantallas. Ya sea el computador, celular o un tablet, somos uno de los países que más horas dedica de su tiempo despierto al consumo de esta tecnología.
 |N°|País|Horas de uso de pantalla al día|
 |--|----|-------------------------------|
-|1 |Sudáfrica|9H 24M|
-|2 |Brasil|9H 13M |
-#### 1.B.
-#### 1.C.
-#### 2.B. [Redes sociales más populares en el mundo](https://www.semrush.com/blog/most-popular-social-media-platforms/#the-most-popular-social-media-platforms-worldwide).
-#### 2.C. [Las redes sociales más usadas en Chile (2023)](https://ce.entel.cl/articulos/las-redes-sociales-en-chile/?utm_term=&utm_campaign=AO+-+COE+-+Branding+-+GGEE&utm_source=adwords&utm_medium=ppc&hsa_acc=1140987309&hsa_cam=12506884035&hsa_grp=146100801496&hsa_ad=646611157132&hsa_src=g&hsa_tgt=dsa-2149377272291&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwmYCzBhA6EiwAxFwfgJ5itaM3GuQyxKq6hYi3E775IDartIKFTa12g6Sb8DeNnKuzT6GgzRoCtggQAvD_BwE#:~:text=Dicho%20esto%2C%20las,1%2C05%20millones%20de%20usuarios.)
-| Red Social | usuarios         |
-|-----------:|------------------|
-|Youtube     | 15,400,000       | 
-|Facebook    | 12,150,000       |
-|TikTok      | 11,250,000       |
-|Instagram   | 10,950,000       | 
-|Linkedin    |  6,900,000       |
-|X (twitter) |  3,650,000       | 
-|Pinterest   |  3,570,000       |
-|Snapchat    |  1,050,000       |
+|1|Sudáfrica|9H 24M|
+|2|Brasil|9H 13M |
+|3|Filipinas|8H 52M|
+|4|Colombia|8H 43M|
+|5|Argentina|8H 41M|
+|6|Chile|8H 31M|
+|7|Rusia|8H 21M|
+|8|Malasia|8H 17M|
+|9|Emiratos Árabes Unidos|8H 11M|
+|10|Tailandia|7H 58M|
 
-#### 2. [Influencers con más seguidores en Chile](https://www.tiendanube.com/cl/blog/influencers-chilenos/).
+#### 1.B. [Uso de Celulares según País (% de horas despiertas dedicadas al celular)](https://www.electronicshub.org/wp-content/uploads//05_The-Countries-Spending-the-Highest-Percentage-of-Each-Day-on-Their-Phones.png).
+Hoy en día, es difícil encontrar a alguien en la calle en cualquier parte del mundo sin un celular en la mano. Sin embargo, nuestro próximo ranking revela los países donde los habitantes pasan la mayor parte del día pegados a esas pantallas portátiles. En el ranking de 2024, Chile se encuentra en el 5° lugar, con un 28,79% de las horas del día utilizando el celular.
+|N°|País|porcentaje del día dedicado al celular|Horas de uso de celular al día|
+|--|----|--------------------------------------|------------------------------|
+|1|Sudáfrica|31,72%|5H 15M|
+|2|Brasil|31,57%|5H 19M|
+|3|Filipinas|31,45%|5H 20M|
+|4|Tailandia|30,18%|5H 2M|
+|5|Chile|28,79%|4H 48M|
+#### 2. [usuarios de redes sociales en Chile (2023)](https://ce.entel.cl/articulos/las-redes-sociales-en-chile/?utm_term=&utm_campaign=AO+-+COE+-+Branding+-+GGEE&utm_source=adwords&utm_medium=ppc&hsa_acc=1140987309&hsa_cam=12506884035&hsa_grp=146100801496&hsa_ad=646611157132&hsa_src=g&hsa_tgt=dsa-2149377272291&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwmYCzBhA6EiwAxFwfgJ5itaM3GuQyxKq6hYi3E775IDartIKFTa12g6Sb8DeNnKuzT6GgzRoCtggQAvD_BwE#:~:text=En%20promedio%2C%20hay%2016%2C55%20millones%20de%20usuarios%20de%20las%20redes%20sociales%20en%20Chile%2C%20lo%20que%20equivale%20al%2093%2C5%25%20de%20la%20cantidad%20de%20personas%20en%20total%20que%20utilizan%20internet%20(que%20es%20de%2017%2C69%20millones)%2C%20y%20a%20su%20vez%20equivale%20al%2084%2C4%25%20de%20la%20poblaci%C3%B3n%20total%20del%20pa%C3%ADs%20(que%20es%20de%2019%2C62%20millones).).
+En promedio, hay 16,55 millones de usuarios de las redes sociales en Chile, lo que equivale al 93,5% de la cantidad de personas en total que utilizan internet (que es de 17,69 millones), y a su vez equivale al 84,4% de la población total del país (que es de 19,62 millones).
+#### 2.A. [Redes sociales más populares en el mundo](https://www.semrush.com/blog/most-popular-social-media-platforms/#the-most-popular-social-media-platforms-worldwide).
+3 de las aplicaciones más utilizadas a nivel mundial, son parte de la compañía Meta:
+**Facebook**, Youtube, **WhatsApp**, **Instagam**, WeChat. (ilustración sobre meta y sus aplicaciones populares con alguna animación que demuestre su poder, a continuación ejemplo de imagen).
+![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/90a1f424-bf61-45e3-bd2f-5ec5b2ba2aea)
+
+#### 2.B. [Las redes sociales más usadas en Chile (2023)](https://ce.entel.cl/articulos/las-redes-sociales-en-chile/?utm_term=&utm_campaign=AO+-+COE+-+Branding+-+GGEE&utm_source=adwords&utm_medium=ppc&hsa_acc=1140987309&hsa_cam=12506884035&hsa_grp=146100801496&hsa_ad=646611157132&hsa_src=g&hsa_tgt=dsa-2149377272291&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwmYCzBhA6EiwAxFwfgJ5itaM3GuQyxKq6hYi3E775IDartIKFTa12g6Sb8DeNnKuzT6GgzRoCtggQAvD_BwE#:~:text=Dicho%20esto%2C%20las,1%2C05%20millones%20de%20usuarios.)
+Chile no se queda abajo en cuanto al uso de redes sociales, teniendo un amplio numero de usuarios en diversas redes sociales.
+| Red Social | N° usuarios |
+|-----------:|-------------|
+|Youtube     | 15,400,000  | 
+|Facebook    | 12,150,000  |
+|TikTok      | 11,250,000  |
+|Instagram   | 10,950,000  | 
+|Linkedin    |  6,900,000  |
+|X (twitter) |  3,650,000  | 
+|Pinterest   |  3,570,000  |
+|Snapchat    |  1,050,000  |
+
+#### 3. [Influencers con más seguidores en Chile](https://www.tiendanube.com/cl/blog/influencers-chilenos/).
+Dos de las redes sociales más utilizadas en Chile son TikTok e Instagram, estas redes sociales tienen distintos tipos de creadores de contenido, que van desde Cantantes, hasta Futbolistas. 
+Los influencers, generan diversos tipos de contenido, sin embargo la mayoría tienen algo en común, el famoso dicho "por plata baila el mono" se ve plasmado de manera evidente en las cuentas y publicaciones de estas personas, promoviendo diversos tipos de productos y servicios a sus seguidores.
+#### 3.A. ["Chilenos" con más seguidores en Instagram](https://promoty.io/influencers-in-chile/).
+1. Arturo Vidal (@kingarturo23oficial) – 14,5 millones (Futbolista)
+2. Ignacia Hernández (@ignaciaa_antonia) – 6,4 millones (Influencer)
+3. Paloma Mami (@palomamami) – 4,2 millones (Cantante)
+4. Mon Laferte (@monlaferte) – 3,3 millones (Cantante)
+5. Francisco Saavedra (@franciscosaavedr) – 3,3 millones (Personalidad TV)
+6. Ignacia Michelson (@michelson11) – 2,7 millones (Influencer)
+7. Pamela Díaz (@pamefieradiaz) – 2,5 millones (Personalidad TV)
+8. Camila Recabarren (@camilarecabarrenoficial) – 2,2 millones (Personalidad TV)
+9. Max Valenzuela (@max.valenzuela01) – 2,2 millones (Cantante)
+10. Fernanda Villalobos (@iamferv) – 1,9 millones (Influencer)
+
+#### 3.B. [TikTokers Chilenos](https://marketing4ecommerce.cl/tiktokers-chilenos/).
+1. Fernanda Villalobos (@Iamferv) - 37.6 millones de seguidores - Bailes
+2. Ruben Tuesta(@Rubentuestaok) - 35.3 millones de seguidores - Comedia
+3. Ignacia Hernández (@ignaciaa_antonia) – 31.1 millones de seguidores - Bailes
+4. Alejandro Valenzuela (@strangehuman) - 13.5 millones de seguidores - Música
+5. Marcelo Alcazar (@Marceloalcazar) - 12.2 millones de seguidores - Comedia
+6. Jorge Valenzuela (@Jorgitoparrillero ) - 2.5 millones de seguidores - Recetas
+7. Carla Inostroza (@C4rlitaa ) - 1.6 millones de seguidore - Bailes
+8. Anita Thomas (@Anitathomasph) - 1 millón de seguidores -Fotografía
+9. Antonaliwen (@Antonaliwen) - 291.7 mil seguidores - Terapias Alternativas
+10. S/I (@_Angelitxou) - 187.4 mil seguidores - S/I
+
+#### 4. Segmentación del uso de RRSS por edad en Chile:
+No es un hecho desconocido que las distintas plataformas de internet tienen distintos tipos de usuarios, aquí comparamos 2 de las más populares.
+##### 4.1: [Segmentación del uso de Instagram por edad en Chile](https://napoleoncat.com/stats/instagram-users-in-chile/2024/05/).
+Conocida por ser la favorita para compartir memes, instagram es más popular entre los adultos jovenes, de 18 a 44 años, son los usuario que más utilizan la aplicación en Chile.
+| Rango etario | % usuarios |
+|-------------:|------------|
+| 13-17        |  S/I       | 
+| 18-24        | 24.5%      |
+| 25-34        | 31.3%      |
+| 35-44        | 20.6%      | 
+| 45-54        | 11.9%      |
+| 55-64        |  7.2%      | 
+| 65 +         |  4.4%      |
+
+##### 4.2:[Segmentación del uso de Facebook por edad en Chile](https://napoleoncat.com/stats/facebook-users-in-chile/2024/04/).
+La famosa red social "Boomer", Facebook, desde la masificación de Instagram, se pensaba habia sido olvidada por los usuarios jovenes, sin embargo, quienes aparentemente más utilizan esta aplicación, siendo un 28.8% de los usuarios, del rango entre 25 y 34 años. Sin embargo, tiene un mayor porcentaje de usuarios mayores de 45 años en comparación a Instagram, por lo que, si bien, su principal numero de usuarios no proviene de los "baby boomers" se ve un mayor porcentaje de ellos entre sus usuarios. 
+| Rango etario | % usuarios |
+|-------------:|------------|
+| 13-17        |  S/I       | 
+| 18-24        | 20.2%      |
+| 25-34        | 28.8%      |
+| 35-44        | 19.7%      | 
+| 45-54        | 13.8%      |
+| 55-64        | 10.3%      | 
+| 65 +         |  7.1%      |
+
+
+
+
+
 #### 3. [Comparación por red social de genero de usuarios en Chile 2023](https://www.way2net.com/2023/09/estadisticas-de-redes-sociales-en-chile-2023/).
 ##### 3.1: promedio de usuarios por genero
 52% son mujeres y el 48% hombres.
