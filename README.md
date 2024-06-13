@@ -3,11 +3,10 @@
 ### Dimensiones:
 #### 1. Uso de dispositivos según país
 #### 2. Popularidad de distintas redes sociales
-#### 3. Uso de las redes sociales según género
-#### 4. Creadores de contenido en Chile
-#### 5. Usuarios de redes sociales en Chile
-#### 6. Segmentación del uso RRSS por edad en Chile
-#### 7. Popularidad de Contenido
+#### 3. Creadores de contenido en Chil
+#### 4. Segmentación del uso RRSS por edad en Chile
+#### 5. Efectos del uso de pantallas y RRSS 
+#### 6. ¿Cómo podemos afrontar la sobreexposición a pantallas y redes sociales?
 #
 ### Indicadores:
 
@@ -84,7 +83,7 @@ Los influencers, generan diversos tipos de contenido, sin embargo la mayoría ti
 
 #### 4. Segmentación del uso de RRSS por edad en Chile:
 No es un hecho desconocido que las distintas plataformas de internet tienen distintos tipos de usuarios, aquí comparamos 2 de las más populares.
-##### 4.1: [Segmentación del uso de Instagram por edad en Chile](https://napoleoncat.com/stats/instagram-users-in-chile/2024/05/).
+##### 4.A: [Segmentación del uso de Instagram por edad en Chile](https://napoleoncat.com/stats/instagram-users-in-chile/2024/05/).
 Conocida por ser la favorita para compartir memes, instagram es más popular entre los adultos jovenes, de 18 a 44 años, son los usuario que más utilizan la aplicación en Chile.
 | Rango etario | % usuarios |
 |-------------:|------------|
@@ -96,7 +95,7 @@ Conocida por ser la favorita para compartir memes, instagram es más popular ent
 | 55-64        |  7.2%      | 
 | 65 +         |  4.4%      |
 
-##### 4.2:[Segmentación del uso de Facebook por edad en Chile](https://napoleoncat.com/stats/facebook-users-in-chile/2024/04/).
+##### 4.B:[Segmentación del uso de Facebook por edad en Chile](https://napoleoncat.com/stats/facebook-users-in-chile/2024/04/).
 La famosa red social "Boomer", Facebook, desde la masificación de Instagram, se pensaba habia sido olvidada por los usuarios jovenes, sin embargo, quienes aparentemente más utilizan esta aplicación, siendo un 28.8% de los usuarios, del rango entre 25 y 34 años. Sin embargo, tiene un mayor porcentaje de usuarios mayores de 45 años en comparación a Instagram, por lo que, si bien, su principal numero de usuarios no proviene de los "baby boomers" se ve un mayor porcentaje de ellos entre sus usuarios. 
 | Rango etario | % usuarios |
 |-------------:|------------|
@@ -108,71 +107,47 @@ La famosa red social "Boomer", Facebook, desde la masificación de Instagram, se
 | 55-64        | 10.3%      | 
 | 65 +         |  7.1%      |
 
+#
+(toda la parte 5 parte se me ocurre graficarla mediante comics cortos o ilustraciones que den a entender los problemas e ideas de soluciones de manera visual.
+#### 5. Efectos del uso de pantallas y redes sociales:
+#### 5.A. [Problemas de salud que puede provocar el uso de pantallas:](https://www.clinicauandes.cl/noticia/cuatro-problemas-de-salud-derivados-del-uso-de-pantallas#:~:text=Al%20exponerse%20muchas%20horas%20a,e%20intolerancia%20a%20la%20luz.).
+Debido a la prolongada exposición a pantallas que vivimos, nuestra salud se ve afectada por diveros problemas, los más comunes son:
+1. Dolor de cabeza y cuello
+2. Sindrome de túnel carpiano (tendinitis o dedo en gatillo)
+3. Problemas a la vista (ojo seco)
+4. Insomnio
+5. Desensibilización del sistema de recompenza, volviendo a nuestros cerebros menos sensibles a los estimulos, generando una mayor cantidad de exposición a estimulos positivos para permitir experimentar placer.
+6. Mayor riesgo a sufrir de trastornos cognitivos, generando efectos negativos en la capacidad de concentración, aprendizaje, memoria, regulación emocional, entre otros problemas relacionados a las funciones cognitivas del cerebro.
+7. Mayor riesgo de padecimiento de Alzheimers, debido a una mayor vulnerabilidad a la neurodegeneración acelerada, producto de una exposición en temprana edad a pantallas.
+   **Ejemplos** de representación para problemas de salud por las pantallas:
+   - ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/b64d8a2d-e970-4d1b-a296-368a51a2fc2b) Visualización "generica" con checklist de sintomas/afecciones.
+   - ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/7bc9064f-eb26-4554-873f-d966d73d725d) Visualización con descripciones indicando cada afección
+   - ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/d2f40f47-1c94-4c94-80fc-87b709cb60df) Visualización destacando zona afectada
 
+#### 5.B. [Efectos negativos que puede provocar el uso de redes sociales:](https://uv.cl/archivo-noticias-uv/11899-uso-excesivo-de-las-redes-sociales-puede-producir-efectos-negativos-en-la-salud-mental-11899).
+Así como el elemento tangible de la relación tiene efectos negativos al ser utilizado en efecto, las redes sociales también:
+1. Ansiedad y Estrés.
+2. Percepción Distorsionada de la Realidad.
+3. Problemas de Autoimagen y autoestima.
+4. Impacto Negativo en Relaciones Cara a Cara.
+**Ejemplos** de representación para problemas generados por las Redes Sociales:
+- ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/d60d1dca-4b31-44f2-be38-52c4dde0d060)
+- ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/c6083b2a-58ed-411a-bb1f-edb0826d1150)
+- ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/b79fd37f-3b50-4579-a01a-e67c4fb70611)
+- ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/218ebf0d-b480-4279-ba1d-fef5861aa862)
 
-
-
-#### 3. [Comparación por red social de genero de usuarios en Chile 2023](https://www.way2net.com/2023/09/estadisticas-de-redes-sociales-en-chile-2023/).
-##### 3.1: promedio de usuarios por genero
-52% son mujeres y el 48% hombres.
-##### 3.2: promedio de usuarios por genero según red social
-| Red Social | masculino | femenino |
-|-----------:|-----------|----------|
-|Facebook    | 47.7%     | 52.3%    |
-|Instagram   | 46.7%     | 53.3%    |
-|X (twitter) | 61,1%     | 38.9%    |
-|Linkedin    | 53.8%     | 46.2%    |
-
-
-#### 5. [usuarios de redes sociales en Chile (2023)](https://ce.entel.cl/articulos/las-redes-sociales-en-chile/?utm_term=&utm_campaign=AO+-+COE+-+Branding+-+GGEE&utm_source=adwords&utm_medium=ppc&hsa_acc=1140987309&hsa_cam=12506884035&hsa_grp=146100801496&hsa_ad=646611157132&hsa_src=g&hsa_tgt=dsa-2149377272291&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwmYCzBhA6EiwAxFwfgJ5itaM3GuQyxKq6hYi3E775IDartIKFTa12g6Sb8DeNnKuzT6GgzRoCtggQAvD_BwE#:~:text=En%20promedio%2C%20hay%2016%2C55%20millones%20de%20usuarios%20de%20las%20redes%20sociales%20en%20Chile%2C%20lo%20que%20equivale%20al%2093%2C5%25%20de%20la%20cantidad%20de%20personas%20en%20total%20que%20utilizan%20internet%20(que%20es%20de%2017%2C69%20millones)%2C%20y%20a%20su%20vez%20equivale%20al%2084%2C4%25%20de%20la%20poblaci%C3%B3n%20total%20del%20pa%C3%ADs%20(que%20es%20de%2019%2C62%20millones).).
-En promedio, hay 16,55 millones de usuarios de las redes sociales en Chile, lo que equivale al 93,5% de la cantidad de personas en total que utilizan internet (que es de 17,69 millones), y a su vez equivale al 84,4% de la población total del país (que es de 19,62 millones).
-#### 6. Segmentación del uso de RRSS por edad en Chile
-##### 6.1: [Segmentación del uso de Instagram por edad en Chile](https://napoleoncat.com/stats/instagram-users-in-chile/2024/05/).
-| Rango etario | % usuarios |
-|-------------:|------------|
-| 13-17        |  S/I       | 
-| 18-24        | 24.5%      |
-| 25-34        | 31.3%      |
-| 35-44        | 20.6%      | 
-| 45-54        | 11.9%      |
-| 55-64        |  7.2%      | 
-| 65 +         |  4.4%      |
-
-##### 6.2:[Segmentación del uso de Facebook por edad en Chile](https://napoleoncat.com/stats/facebook-users-in-chile/2024/04/).
-| Rango etario | % usuarios |
-|-------------:|------------|
-| 13-17        |  S/I       | 
-| 18-24        | 20.2%      |
-| 25-34        | 28.8%      |
-| 35-44        | 19.7%      | 
-| 45-54        | 13.8%      |
-| 55-64        | 10.3%      | 
-| 65 +         |  7.1%      |
-
-#### 7. Popularidad de creadores en Chile:
-##### 7.1. [TikTokers Chilenos](https://promoty.io/influencers-in-chile/).
-Ignacia Antonia (@ignaciaa_antonia) – 30.6M followers
-Itayvargas (@itayvargas) – 17.7M followers
-Nova (@strangehuman) – 12.4M followers
-Marcelo Alcázar (@marceloalcazar) – 11.4M followers
-Ignacio Orellana (@nachitojuegajuegos) – 11.1M followers
-Vaiti (@vaimonroe) – 10.6M followers
-L Λ I K Λ (@laika.secret) – 10.3M followers
-joaquinorellanas (@joaquinorellanas) – 8.7M followers
-TATI (@tatiifernandez._) – 8.3M followers
-MikeMilfort (@mikemilfortversionmalo) – 7.1M followers
-
-##### 7.2. [Influencers de Instagram basados en Chile](https://promoty.io/influencers-in-chile/).
-Paloma Mami (@palomamami) – 4.6M followers
-Pancho Saavedra (@franciscosaavedr) – 3.9M followers
-Denise Rosenthal (@deniserosenthal) – 3.7M followers
-Gary Medel (@gary_medel17) – 3.6M followers
-Pailita (@pailita.k7k) – 2.9M followers
-Gala Caldirola (@galadrielcaldirola) – 2.9M followers
-Karol Jesús Lucero V. (@karol_lucerov) – 2.7M followers
-Pamela Díaz (@pamefieradiaz) – 2.7M followers
-Joaquin Mendez (@mendezjoaquin) – 2.5M followers
-P*c* Pal Que Lee (@accionantipoeticachile) – 2.4M followers
+#### 6. ¿Cómo podemos afrontar la sobreexposición a pantallas y redes sociales?
+1. Establecer zonas libres de redes
+2. Elegir lo que se quiere ver
+3. Hacer pausas conscientes
+4. Promover espacios de interacción real
+5. Valorar mejor el uso del tiempo
+**Ejemplos** de representación para las ideas de soluciones:
+- ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/720d5524-5cb2-4799-9a0d-489dd7579d11)
+- ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/5308c468-c586-40ca-bdc1-2f37098be470)
+- ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/4666803b-7440-4393-ab93-ddaa004c3cb7)
+- ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/db3c8700-c3be-41e4-ac21-653d63664485)
+- ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/5e41e2c3-522f-4631-b9ba-4794546236f4)
 
 
 Referentes:
@@ -185,5 +160,5 @@ Referentes:
    Se enfoca principalmente en la lectura y narración mediante el texto, los gráficos son atractivos, pero al ser muy operecidos pierden la novedad al hacer scroll por la página. Tiene cifras atractivas sobre rrss, pero se "pierden" al no ser representadas en un gráfico que explote al maximo el potencial de las cifras y data.
 4. [https://datareportal.com/reports/digital-2022-internet-connection-speeds?rq=Chile] :
    Los datos hablan más de la utilización de las redes a nivel global, presentando una comparación en cuanto a Chile, utiliza gráficos que permiten compreder de mejor manera la visualización de los datos, sin embargo, son repetitivos, además de tener una estructura visualmente lineal, que puede generar que se pierda el interés.
-5. https://infographicjournal.com/the-top-25-most-popular-social-media-platforms-in-the-world/
+5. [https://infographicjournal.com/the-top-25-most-popular-social-media-platforms-in-the-world/] :
    Muestra de manera atractiva varias de las visualizaciones de datos, sin embargo, no es interactivo al ser una imagen, por otro lado, la representación de algunos gráficos tiene un aspecto desordenado que podría generar confusión en la narrativa de las metricas.
