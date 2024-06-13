@@ -152,14 +152,19 @@ Así como el elemento tangible de la relación tiene efectos negativos al ser ut
 
 
 Referentes:
-1. PICTOLINE:
-   Tiene un enfoque más ilustrativo, es atractivo, pero no deja sobresalir los "datos duros".
+1. [PICTOLINE:](https://www.pictoline.com/timeline?search=redes%20sociales).
+   - Tiene un enfoque más ilustrativo, es atractivo, pero no deja sobresalir los "datos duros".
+   - ![Captura de pantalla 2024-06-12 213613](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/80b40bc1-a000-4aee-8040-ec7c7355994d)
 2. [https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/index.html] :
-   Habla sobre las consecuencias del uso excesivo de celulares, principalmente los efectos en la salúd física, como la visión, postura y accidentes.No especifica las rrss.
-   Utiliza diferentes formas para graficar lo expuesto, videos intervenidos, ilustraciones animadas e interactivas.
+   - Habla sobre las consecuencias del uso excesivo de celulares, principalmente los efectos en la salúd física, como la visión, postura y accidentes.No especifica las rrss.
+   - Utiliza diferentes formas para graficar lo expuesto, videos intervenidos, ilustraciones animadas e interactivas.
+   - ![Captura de pantalla 2024-06-12 213821](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/3606e222-3c5b-4a94-8007-a5858f099e67)
 3. [https://www.electronicshub.org/the-average-screen-time-and-usage-by-country-in-2024/] :
-   Se enfoca principalmente en la lectura y narración mediante el texto, los gráficos son atractivos, pero al ser muy operecidos pierden la novedad al hacer scroll por la página. Tiene cifras atractivas sobre rrss, pero se "pierden" al no ser representadas en un gráfico que explote al maximo el potencial de las cifras y data.
-4. [https://datareportal.com/reports/digital-2022-internet-connection-speeds?rq=Chile] :
-   Los datos hablan más de la utilización de las redes a nivel global, presentando una comparación en cuanto a Chile, utiliza gráficos que permiten compreder de mejor manera la visualización de los datos, sin embargo, son repetitivos, además de tener una estructura visualmente lineal, que puede generar que se pierda el interés.
+   - Se enfoca principalmente en la lectura y narración mediante el texto, los gráficos son atractivos, pero al ser muy operecidos pierden la novedad al hacer scroll por la página. Tiene cifras atractivas sobre rrss, pero se "pierden" al no ser representadas en un gráfico que explote al maximo el potencial de las cifras y data.
+   - ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/55a788fe-7796-4363-a1e1-ead8a9b8d609)
+4. [https://datareportal.com/reports/digital-2024-deep-dive-how-the-world-goes-online?rq=Chile] :
+   - Los datos hablan más de la utilización de las redes a nivel global, presentando una comparación en cuanto a Chile, utiliza gráficos que permiten compreder de mejor manera la visualización de los datos, sin embargo, son repetitivos, además de tener una estructura visualmente lineal, que puede generar que se pierda el interés.
+   - ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/9642e429-7ff5-459a-8e01-8c6f8cb237a5)
 5. [https://infographicjournal.com/the-top-25-most-popular-social-media-platforms-in-the-world/] :
-   Muestra de manera atractiva varias de las visualizaciones de datos, sin embargo, no es interactivo al ser una imagen, por otro lado, la representación de algunos gráficos tiene un aspecto desordenado que podría generar confusión en la narrativa de las metricas.
+   - Muestra de manera atractiva varias de las visualizaciones de datos, sin embargo, no es interactivo al ser una imagen, por otro lado, la representación de algunos gráficos tiene un aspecto desordenado que podría generar confusión en la narrativa de las metricas.
+   - ![image](https://github.com/jimschenetzky/DNOWEB_PROYECTO/assets/87721128/37db59d7-e034-451c-8012-109dac8c2ff1)
