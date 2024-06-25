@@ -10,6 +10,9 @@
 #
 ### Indicadores:
 
+### Introducción:
+En la era digital actual, el uso de pantallas y el consumo de redes sociales se han convertido en actividades omnipresentes en la vida cotidiana. Tanto en Chile como en el resto del mundo, estas tecnologías han transformado la manera en que nos comunicamos, trabajamos y nos entretenemos. Este fenómeno global ha suscitado una variedad de impactos tanto positivos como negativos, influyendo en aspectos sociales, económicos y de salud. 
+
 #### 1.A. [Comparación 10 países con mayor tiempo promedio frente a la pantalla](https://www.electronicshub.org/the-average-screen-time-and-usage-by-country-in-2024/).
 Chile se encuentra posicionado en el 6° lugar entre los países que más tiempo dedica al día a las pantallas. Ya sea el computador, celular o un tablet, somos uno de los países que más horas dedica de su tiempo despierto al consumo de esta tecnología.
 |N°|País|Horas de uso de pantalla al día|
