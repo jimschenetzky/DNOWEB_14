@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>El estado de lo digital en Chile</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+        <link rel="icon" type="image/x-icon" href="https://github.com/jimschenetzky/DNOWEB_PROYECTO/blob/main/favicon.png?raw=true" />
+
+        <!-- Link to Chart.js library -->
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <style>
+            /* Global styles */
+            body {
+                background-color: #091a33; /* Light blue */
+                color: #ffffff; /* Dark grey */
+            }
+
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6 {
+                color: #ffffff;
+            }
+
+            /* Specific element styles */
+            div.container {
+                width: 1300px;
+                margin: 0 auto;
+            }
+
+            /* Adjust header styles */
+            header {
+                background-color: #364963; /* Light blue */
+                padding: 20px 0;
+            }
+
+            /* Adjust footer styles */
+            footer {
+                background-color: #364963; /* Light blue */
+                padding: 20px 0;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- header -->
+        <header class="shadow-sm">
+            <div class="container py-4">
+                <div class="row">
+                    <div class="col-12 mx-auto text-center fw-lighter">
+                        <p class="my-0 d-flex justify-content-between align-items-center">
+                            <a type="button" class="btn btn-outline-light" href="https://github.com/jimschenetzky">Josefina Imschenetzky</a><span class="d-sm-none">|</span>
+                            <a type="button" class="btn btn-outline-light" href="https://github.com/profesorfaco/dno097-2024">Desarrollo web y diseño visual de información </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Intro -->
+        <br />
+        <div style="width: 1300px; margin: 0 auto;">
+            <h1 style="text-align: center;">El estado de lo digital en Chile</h1>
+            <p>
+                En la era digital actual, el uso de pantallas y el consumo de redes sociales se han convertido en actividades omnipresentes en la vida cotidiana. Tanto en Chile como en el resto del mundo, estas tecnologías han transformado
+                la manera en que nos comunicamos, trabajamos y nos entretenemos. Este fenómeno global ha suscitado una variedad de impactos tanto positivos como negativos, influyendo en aspectos sociales, económicos y de salud.
+            </p>
+            <br />
+        </div>
+        <div style="width: 1300px; margin: 0 auto;">
+            <!-- Dispositivos -->
+            <h2 style="text-align: center;">Uso de dispositivos según país</h2>
+            <br />
+            <div class="row">
+                <div class="col-12 col-md-6 mb-4">
+                    <div class="content">
+                        <div class="content-header">
+                            <!-- Pantallas -->
+                            <h4 style="text-align: center;">Comparación 10 países con mayor tiempo promedio frente a la pantalla</h4>
+                            <p>
+                                Chile se encuentra posicionado en el 6° lugar entre los países que más tiempo dedica al día a las pantallas. Ya sea el computador, celular o un tablet, somos uno de los países que más horas dedica de su
+                                tiempo despierto al consumo de esta tecnología con más de 8 horas y media de uso al día.
+                            </p>
+                            <canvas id="pantalla" width="400" height="200"></canvas>
+                            <br />
+                            <br />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 mb-4">
+                    <div class="content">
+                        <div class="content-header">
+                            <h4 style="text-align: center;">Uso de Celulares según País (% de horas despiertas dedicadas al celular)</h4>
+                            <p>
+                                Hoy en día, es difícil encontrar a alguien en la calle en cualquier parte del mundo sin un celular en la mano. Aquí estan los países donde los habitantes pasan la mayor parte del día pegados a esas pantallas
+                                portátiles, Chile se encuentra en el 5° lugar, con un 28,79% del día dedicado al celular.
+                            </p>
+                            <canvas id="celular" width="400" height="200"></canvas>
+                            <br />
+                            <br />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- RRSS -->
+        <div style="width: 1200px; margin: 0 auto;">
+            <div>
+                <h2 style="text-align: center;">Usuarios de redes sociales</h2>
+                <h3 style="text-align: center;">Redes sociales más populares en el mundo</h3>
+                <br />
+                <br />
+                <div>
+                    <img src="https://github.com/jimschenetzky/DNOWEB_PROYECTO/blob/main/Meta%20Business%20Manager.png?raw=true" class="img-fluid mx-auto d-block" />
+                    <br />
+                    <br />
+                </div>
+            </div>
+        </div>
+        <div style="width: 1000px; margin: 0 auto;">
+            <div class="row">
+                <div class="col-12 col-md-6 mb-4">
+                    <div class="content">
+                        <div class="content-header">
+                            <!-- usuarios -->
+                            <h4 style="text-align: center;">Usuarios de redes sociales en Chile (2023)</h4>
+                            <br />
+                            <canvas id="rrss" width="400" height="200"></canvas>
+                            <br />
+                            <br />
+                            <h6 style="text-align: center;">
+                                En promedio, hay 16,55 millones de usuarios de las redes sociales en Chile, lo que equivale al 93,5% de la cantidad de personas en total que utilizan internet (que es de 17,69 millones), y a su vez equivale
+                                al 84,4% de la población total del país (19,62 millones).
+                            </h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 mb-4">
+                    <div class="content">
+                        <div class="content-header">
+                            <h4 style="text-align: center;">Redes sociales más usadas en Chile (2023)</h4>
+                            <br />
+                            <canvas id="popularidad" width="400" height="200"></canvas>
+                            <br />
+                            <br />
+                            <h6 style="text-align: center;">
+                                Chile no se queda abajo en cuanto al uso de redes sociales, teniendo un amplio numero de usuarios en diversas redes sociales, Youtube es la plataforma más consumida por los chilenos, seguida por Facebook,
+                                TikTok e Instagram.
+                            </h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- segmentacion etarea -->
+        <div style="width: 1000px; margin: 0 auto;">
+            <br />
+            <h3 style="text-align: center;">Segmentación del uso de RRSS por edad en Chile</h3>
+            <br />
+            <div class="row">
+                <div class="col-12 col-md-6 mb-4">
+                    <div class="content">
+                        <div class="content-header">
+                            <h4>No es un hecho desconocido que las distintas plataformas de internet tienen distintos tipos de usuarios, aquí comparamos 2 de las más populares:</h4>
+                            <p>
+                                <strong>Instagram:</strong> Conocida por ser la favorita para compartir <em>memes</em>, instagram es más popular entre los adultos jóvenes, de 18 a 44 años, son los usuario que más utilizan la aplicación en
+                                Chile.
+                            </p>
+                            <p>
+                                <strong>Facebook:</strong> La famosa red social <em>Boomer</em>, Facebook, desde la masificación de Instagram, se pensaba habia sido olvidada por los usuarios jovenes, sin embargo, quienes aparentemente más
+                                utilizan esta aplicación, siendo un 28.8% de los usuarios, del rango entre 25 y 34 años. Sin embargo, tiene un mayor porcentaje de usuarios mayores de 45 años en comparación a Instagram, por lo que, si bien,
+                                su principal numero de usuarios no proviene de los <em>baby boomers</em> se ve un mayor porcentaje de ellos entre sus usuarios.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 mb-4">
+                    <div class="content">
+                        <div class="content-header">
+                            <canvas id="edades" width="400" height="400"></canvas>
+                            <p style="text-align: right;"><small>0-17 años S/I</small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div style="width: 1300px; margin: 0 auto;">
+            <!-- Influencers con más seguidores en Chile -->
+            <div class="container-fluid">
+                <h2 style="text-align: center;">Influencers con más seguidores en Chile</h2>
+                <p>
+                    Dos de las redes sociales más utilizadas en Chile son TikTok e Instagram, estas redes sociales tienen distintos tipos de creadores de contenido, que van desde Cantantes, hasta Futbolistas. Los influencers, generan
+                    diversos tipos de contenido, sin embargo la mayoría tienen algo en común, el famoso dicho "por plata baila el mono" se ve plasmado de manera evidente en las cuentas y publicaciones de estas personas, promoviendo diversos
+                    tipos de productos y servicios a sus seguidores.
+                </p>
+                <div class="row">
+                    <div class="col-12 col-md-6 mb-4">
+                        <div class="content">
+                            <div class="content-header">
+                                <h4>Influencers en Chile con más seguidores en Instagram</h4>
+                            </div>
+                            <div class="content-body">
+                                <img src="https://github.com/jimschenetzky/DNOWEB_PROYECTO/blob/main/snapshot-1719288874430-02.png?raw=true" class="img-fluid" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 mb-4">
+                        <div class="content">
+                            <div class="content-header">
+                                <h4>TikTokers con el mayor número de seguidores en Chile</h4>
+                            </div>
+                            <div class="content-body">
+                                <img src="https://github.com/jimschenetzky/DNOWEB_PROYECTO/blob/main/snapshot-1719288874430-01.png?raw=true" class="img-fluid" alt="Palabras habituales" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Efectos del uso de pantallas y redes sociales -->
+        <div style="width: 1300px; margin: 0 auto;">
+            <div class="container-fluid">
+                <h2 style="text-align: center;">Efectos del uso de pantallas y redes sociales</h2>
+                <p>
+                    Dos de las redes sociales más utilizadas en Chile son TikTok e Instagram, estas redes sociales tienen distintos tipos de creadores de contenido, que van desde Cantantes, hasta Futbolistas. Los influencers, generan
+                    diversos tipos de contenido, sin embargo la mayoría tienen algo en común, el famoso dicho "por plata baila el mono" se ve plasmado de manera evidente en las cuentas y publicaciones de estas personas, promoviendo diversos
+                    tipos de productos y servicios a sus seguidores.
+                </p>
+                <div class="row">
+                    <!-- Efectos negativos que puede provocar el uso de pantallas -->
+                    <div class="col-12 col-md-6 mb-4">
+                        <div class="content">
+                            <div class="content-header">
+                                <h4>Efectos negativos que puede provocar el uso de pantallas</h4>
+                                <p>Debido a la prolongada exposición a pantallas que vivimos, nuestra salud se ve afectada por diveros problemas, los más comunes son:</p>
+                            </div>
+                            <div class="content-body">
+                                <img src="https://github.com/jimschenetzky/DNOWEB_PROYECTO/blob/main/efectos_negativos_1%20(3).png?raw=true" class="img-fluid" />
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Efectos negativos que puede provocar el uso de redes sociales -->
+                    <div class="col-12 col-md-6 mb-4">
+                        <div class="content">
+                            <div class="content-header">
+                                <h4>Efectos negativos que puede provocar el uso de redes sociales</h4>
+                                <p>Así como el elemento tangible de la relación tiene efectos negativos al ser utilizado en efecto, las redes sociales también:</p>
+                            </div>
+                            <div class="content-body">
+                                <img src="https://github.com/jimschenetzky/DNOWEB_PROYECTO/blob/main/efectos_negativos_2%20(2).png?raw=true" class="img-fluid" alt="Palabras habituales" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br/>
+        <br/>
+        <div style="width: 1300px; margin: 0 auto;">
+            <div class="container-fluid">
+                <h2 style="text-align: center;">¿Cómo podemos afrontar la sobreexposición a pantallas y redes sociales?</h2>
+                <br/>
+                <p>
+                    Para abordar la sobreexposición a pantallas y redes sociales de manera efectiva, es fundamental adoptar estrategias equilibradas y conscientes. Esto implica establecer límites claros en el tiempo de uso, fomentar actividades alternativas fuera de la pantalla y promover un uso consciente de la tecnología. Además, es crucial educar sobre los riesgos asociados, como impactos en la salud mental y social, y promover hábitos que apoyen un estilo de vida equilibrado y saludable.
+                </p>
+                <br/>
+                <div class="row">
+                    <!-- zonas -->
+                    <div class="col-12 col-md-6 mb-4">
+                        <div class="content">
+                            <div class="content-header">
+                                <h4>Establecer zonas libre de pantallas y redes sociales para delimitar zonas de descanso e interacción social</h4>
+                            </div>
+                            <br/>
+                            <div class="content-body">
+                                <img src="https://github.com/jimschenetzky/DNOWEB_PROYECTO/blob/main/535d4b90-9983-403b-a5cd-03d46f0c596c.gif?raw=true" class="img-fluid" />
+                            </div>
+                        </div>
+                    </div>
+                    <!-- breaks y uso de tiempo -->
+                    <div class="col-12 col-md-6 mb-4">
+                        <div class="content">
+                            <div class="content-header">
+                                <h4>Tomar descansos frecuentes y conscientes de las pantallas y redes sociales, moverse y descansar la vista</h4>
+                            </div>
+                            <br/>
+                            <div class="content-body">
+                                <img src="https://github.com/jimschenetzky/DNOWEB_PROYECTO/blob/main/break-time-take-a-break-2n4cm9cmp29jtxrn.gif?raw=true" class="img-fluid" alt="Palabras habituales" />
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Elegir lo que se quiere ver -->
+                    <div class="col-12 col-md-6 mb-4">
+                        <div class="content">
+                            <div class="content-header">
+                                <h4>Ser selectivo con el contenido, evitar el FOMO y ver el contenido que realmente te interesa</h4>
+                            </div>
+                            <br/>
+                            <div class="content-body">
+                                <img src="https://github.com/jimschenetzky/DNOWEB_PROYECTO/blob/main/ezgif-2-aebd64c2e31b.gif?raw=true" class="img-fluid" />
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Promover espacios de interacción real -->
+                    <div class="col-12 col-md-6 mb-4">
+                        <div class="content">
+                            <div class="content-header">
+                                <h4>Cuando hables con tus amigos, dejen de lado el celular y redes sociales</h4>
+                            </div>
+                            <br/>
+                            <div class="content-body">
+                                <img src="https://github.com/jimschenetzky/DNOWEB_PROYECTO/blob/main/rapport-03-720x425.gif?raw=true" class="img-fluid" alt="Palabras habituales" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer class="shadow-sm">
+            <div class="container py-4">
+                <div class="row">
+                    <div class="col-12 mx-auto text-center fw-lighter">
+                        <p class="my-0 d-flex justify-content-between align-items-center">
+                            <a type="button" class="btn btn-outline-light" href="#top">Volver arriba</a> <span class="d-sm-none">|</span> <a href="#top" type="button" class="btn btn-outline-light">Jose_Ims</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <script>
+            $(function () {
+                var scroll_pos = 0;
+                $("html, body").animate({ scrollTop: scroll_pos }, "2000");
+            });
+        </script>
+
+        <script>
+            // Promedio Pantallas
+            var ctx1 = document.getElementById("pantalla").getContext("2d");
+            var pantalla = new Chart(ctx1, {
+                type: "bar",
+                data: {
+                    labels: ["Sudáfrica", "Brasil", "Filipinas", "Colombia", "Argentina", "Chile", "Rusia", "Malasia", "EAU", "Tailandia"],
+                    datasets: [
+                        {
+                            label: "Horas de uso de pantalla al día",
+                            data: [9.24, 9.13, 8.52, 8.43, 8.41, 8.31, 8.21, 8.17, 8.11, 7.58],
+                            backgroundColor: "rgba(240, 3, 229, 1)",
+                            borderColor: "rgba(194, 217, 248, 1)",
+                            borderWidth: 3,
+                        },
+                    ],
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                        },
+                    },
+                },
+            });
+            // promedio celulares
+            var ctx1 = document.getElementById("celular").getContext("2d");
+            var celular = new Chart(ctx1, {
+                type: "bar",
+                data: {
+                    labels: ["Sudáfrica", "Brasil", "Filipinas", "Tailandia", "Chile"],
+                    datasets: [
+                        {
+                            label: "Horas de uso de celular al día",
+                            data: [31.72, 31.57, 31.45, 30.18, 28.79],
+                            backgroundColor: "rgba(8, 102, 255, 1)",
+                            borderColor: "rgba(194, 217, 248, 1)",
+                            borderWidth: 3,
+                        },
+                    ],
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                        },
+                    },
+                },
+            });
+
+            // cuantos usuarios de internet usan rrss
+            var ctx5 = document.getElementById("rrss").getContext("2d");
+            var rrss = new Chart(ctx5, {
+                type: "pie",
+                data: {
+                    labels: ["Usan RRSS", "No usan RRSS"],
+                    datasets: [
+                        {
+                            label: "Pie Chart",
+                            data: [84.4, 15.6],
+                            backgroundColor: ["#0866FF", "#F003E5"],
+                            borderColor: "rgba(194, 217, 248, 1)",
+                            borderWidth: 3,
+                        },
+                    ],
+                },
+            });
+
+            // Usuarios en redes sociales
+            var ctx6 = document.getElementById("popularidad").getContext("2d");
+            var popularidad = new Chart(ctx6, {
+                type: "polarArea",
+                data: {
+                    labels: ["Youtube", "Facebook", "Tiktok", "Instagram", "Linkedin", "X", "Pinterest", "Snapchat"],
+                    datasets: [
+                        {
+                            label: "Polar Area Chart",
+                            data: [15400000, 12150000, 11250000, 10950000, 6900000, 3650000, 3570000, 1050000],
+                            backgroundColor: ["#FF0000", "#0866FF", "#000000", "#F003E5", "#0A66C2", "#1B92E2", "#E60023", "#FFFC00"],
+                            borderColor: "rgba(194, 217, 248, 1)",
+                            borderWidth: 3,
+                        },
+                    ],
+                },
+            });
+
+            // Distribución etarea
+            var ctxPyramid = document.getElementById("edades").getContext("2d");
+            var edades = new Chart(ctxPyramid, {
+                type: "bar",
+                data: {
+                    labels: ["0-17", "18-24", "25-34", "35-44", "45-54", "55-64", "65 +"],
+                    datasets: [
+                        {
+                            label: "Instagram",
+                            data: [0, 24.5, 31.3, 20.6, 11.9, 7.2, 4.5],
+                            backgroundColor: "rgba(240, 3, 229, 1)",
+                            borderColor: "rgba(240, 3, 229, 1)",
+                            borderWidth: 0,
+                        },
+                        {
+                            label: "Facebook",
+                            data: [0, -20.2, -28.8, -19.7, -13.8, -10.3, -7.1],
+                            backgroundColor: "rgba(8, 102, 255, 1)",
+                            borderColor: "rgba(8, 102, 255, 1)",
+                            borderWidth: 0,
+                        },
+                    ],
+                },
+                options: {
+                    indexAxis: "y",
+                    scales: {
+                        x: {
+                            beginAtZero: true,
+                            ticks: {
+                                callback: function (value) {
+                                    return Math.abs(value);
+                                },
+                            },
+                        },
+                    },
+                    plugins: {
+                        tooltip: {
+                            callbacks: {
+                                label: function (context) {
+                                    return context.dataset.label + ": " + Math.abs(context.raw);
+                                },
+                            },
+                        },
+                    },
+                },
+            });
+        </script>
+    </body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</html>
